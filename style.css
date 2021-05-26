@@ -1,0 +1,88 @@
+* {
+    font-size: 16px;
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar */
+.navbar-brand {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-weight: 600;
+}
+
+/* hero 1 */
+.hero1 {
+    background-color: rgba(128, 128, 128, 0.336);
+}
+
+.judul1 {
+    margin-top: 100px;
+    color: blue;
+    font-size: 35px;
+}
+
+.subjudul1 {
+    color: red;
+}
+
+.text1 {
+    text-align: end;
+}
+
+li {
+    font-size: 18px;
+}
+
+/* hero 2 */
+.subjudul2 {
+    color: green;
+}
+
+.col1 {
+    height: 200px;
+    margin: 15px;
+    padding: 0 0 0 0;
+}
+
+.col2 {
+    height: 300px;
+    margin: 15px;
+}
+
+.col3 {
+    height: 400px;
+    margin: 15px;
+}
+
+/* hero 3 */
+.bunga {
+    border-radius: 100%;
+}
+
+.card {
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 2%;
+}
+
+/* hero 4 */
+.form {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.btn-dark {
+    width: 100%;
+}
+
+/* footer */
+.text-footer {
+    margin: 20px 0 20px 0;
+    color: black;
+    font-size: 15px;
+}
